@@ -1,0 +1,48 @@
+D:\Faculdade\ADS2020-1\IFSP-On\6Semestre\PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS\PDMI6_TP_02\PDMI6TP02\PDMI6TP02\obj\Debug\netstandard2.0\PDMI6TP02.csproj.AssemblyReference.cache
+D:\Faculdade\ADS2020-1\IFSP-On\6Semestre\PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS\PDMI6_TP_02\PDMI6TP02\PDMI6TP02\obj\Debug\netstandard2.0\PDMI6TP02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faculdade\ADS2020-1\IFSP-On\6Semestre\PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS\PDMI6_TP_02\PDMI6TP02\PDMI6TP02\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Faculdade\ADS2020-1\IFSP-On\6Semestre\PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS\PDMI6_TP_02\PDMI6TP02\PDMI6TP02\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Faculdade\ADS2020-1\IFSP-On\6Semestre\PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS\PDMI6_TP_02\PDMI6TP02\PDMI6TP02\obj\Debug\netstandard2.0\TriggersView.xaml.g.cs
+D:\Faculdade\ADS2020-1\IFSP-On\6Semestre\PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS\PDMI6_TP_02\PDMI6TP02\PDMI6TP02\obj\Debug\netstandard2.0\Views\CadastroProduto.xaml.g.cs
+D:\Faculdade\ADS2020-1\IFSP-On\6Semestre\PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS\PDMI6_TP_02\PDMI6TP02\PDMI6TP02\obj\Debug\netstandard2.0\Views\DetalhesContato.xaml.g.cs
+D:\Faculdade\ADS2020-1\IFSP-On\6Semestre\PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS\PDMI6_TP_02\PDMI6TP02\PDMI6TP02\obj\Debug\netstandard2.0\Views\DetalhesProduto.xaml.g.cs
+D:\Faculdade\ADS2020-1\IFSP-On\6Semestre\PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS\PDMI6_TP_02\PDMI6TP02\PDMI6TP02\obj\Debug\netstandard2.0\Views\EstiloDinamico.xaml.g.cs
+D:\Faculdade\ADS2020-1\IFSP-On\6Semestre\PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS\PDMI6_TP_02\PDMI6TP02\PDMI6TP02\obj\Debug\netstandard2.0\Views\EstiloPadrao.xaml.g.cs
+D:\Faculdade\ADS2020-1\IFSP-On\6Semestre\PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS\PDMI6_TP_02\PDMI6TP02\PDMI6TP02\obj\Debug\netstandard2.0\Views\Home.xaml.g.cs
+D:\Faculdade\ADS2020-1\IFSP-On\6Semestre\PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS\PDMI6_TP_02\PDMI6TP02\PDMI6TP02\obj\Debug\netstandard2.0\Views\ListViewSimples.xaml.g.cs
+D:\Faculdade\ADS2020-1\IFSP-On\6Semestre\PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS\PDMI6_TP_02\PDMI6TP02\PDMI6TP02\obj\Debug\netstandard2.0\Views\Principal.xaml.g.cs
+D:\Faculdade\ADS2020-1\IFSP-On\6Semestre\PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS\PDMI6_TP_02\PDMI6TP02\PDMI6TP02\obj\Debug\netstandard2.0\PDMI6TP02.AssemblyInfoInputs.cache
+D:\Faculdade\ADS2020-1\IFSP-On\6Semestre\PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS\PDMI6_TP_02\PDMI6TP02\PDMI6TP02\obj\Debug\netstandard2.0\PDMI6TP02.AssemblyInfo.cs
+D:\Faculdade\ADS2020-1\IFSP-On\6Semestre\PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS\PDMI6_TP_02\PDMI6TP02\PDMI6TP02\obj\Debug\netstandard2.0\PDMI6TP02.csproj.CoreCompileInputs.cache
+D:\Faculdade\ADS2020-1\IFSP-On\6Semestre\PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS\PDMI6_TP_02\PDMI6TP02\PDMI6TP02\bin\Debug\netstandard2.0\PDMI6TP02.deps.json
+D:\Faculdade\ADS2020-1\IFSP-On\6Semestre\PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS\PDMI6_TP_02\PDMI6TP02\PDMI6TP02\bin\Debug\netstandard2.0\PDMI6TP02.dll
+D:\Faculdade\ADS2020-1\IFSP-On\6Semestre\PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS\PDMI6_TP_02\PDMI6TP02\PDMI6TP02\bin\Debug\netstandard2.0\PDMI6TP02.pdb
+D:\Faculdade\ADS2020-1\IFSP-On\6Semestre\PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS\PDMI6_TP_02\PDMI6TP02\PDMI6TP02\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Faculdade\ADS2020-1\IFSP-On\6Semestre\PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS\PDMI6_TP_02\PDMI6TP02\PDMI6TP02\obj\Debug\netstandard2.0\PDMI6TP02.dll
+D:\Faculdade\ADS2020-1\IFSP-On\6Semestre\PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS\PDMI6_TP_02\PDMI6TP02\PDMI6TP02\obj\Debug\netstandard2.0\refint\PDMI6TP02.dll
+D:\Faculdade\ADS2020-1\IFSP-On\6Semestre\PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS\PDMI6_TP_02\PDMI6TP02\PDMI6TP02\obj\Debug\netstandard2.0\PDMI6TP02.pdb
+D:\Faculdade\ADS2020-1\IFSP-On\6Semestre\PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS\PDMI6_TP_02\PDMI6TP02\PDMI6TP02\obj\Debug\netstandard2.0\ref\PDMI6TP02.dll
+C:\Users\Vitor\Desktop\PDMI6TP02\PDMI6TP02\bin\Debug\netstandard2.0\PDMI6TP02.deps.json
+C:\Users\Vitor\Desktop\PDMI6TP02\PDMI6TP02\bin\Debug\netstandard2.0\PDMI6TP02.dll
+C:\Users\Vitor\Desktop\PDMI6TP02\PDMI6TP02\bin\Debug\netstandard2.0\PDMI6TP02.pdb
+C:\Users\Vitor\Desktop\PDMI6TP02\PDMI6TP02\obj\Debug\netstandard2.0\PDMI6TP02.csproj.AssemblyReference.cache
+C:\Users\Vitor\Desktop\PDMI6TP02\PDMI6TP02\obj\Debug\netstandard2.0\PDMI6TP02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitor\Desktop\PDMI6TP02\PDMI6TP02\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Vitor\Desktop\PDMI6TP02\PDMI6TP02\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Vitor\Desktop\PDMI6TP02\PDMI6TP02\obj\Debug\netstandard2.0\TriggersView.xaml.g.cs
+C:\Users\Vitor\Desktop\PDMI6TP02\PDMI6TP02\obj\Debug\netstandard2.0\Views\CadastroProduto.xaml.g.cs
+C:\Users\Vitor\Desktop\PDMI6TP02\PDMI6TP02\obj\Debug\netstandard2.0\Views\DetalhesContato.xaml.g.cs
+C:\Users\Vitor\Desktop\PDMI6TP02\PDMI6TP02\obj\Debug\netstandard2.0\Views\DetalhesProduto.xaml.g.cs
+C:\Users\Vitor\Desktop\PDMI6TP02\PDMI6TP02\obj\Debug\netstandard2.0\Views\EstiloDinamico.xaml.g.cs
+C:\Users\Vitor\Desktop\PDMI6TP02\PDMI6TP02\obj\Debug\netstandard2.0\Views\EstiloPadrao.xaml.g.cs
+C:\Users\Vitor\Desktop\PDMI6TP02\PDMI6TP02\obj\Debug\netstandard2.0\Views\Home.xaml.g.cs
+C:\Users\Vitor\Desktop\PDMI6TP02\PDMI6TP02\obj\Debug\netstandard2.0\Views\ListViewSimples.xaml.g.cs
+C:\Users\Vitor\Desktop\PDMI6TP02\PDMI6TP02\obj\Debug\netstandard2.0\Views\Principal.xaml.g.cs
+C:\Users\Vitor\Desktop\PDMI6TP02\PDMI6TP02\obj\Debug\netstandard2.0\PDMI6TP02.AssemblyInfoInputs.cache
+C:\Users\Vitor\Desktop\PDMI6TP02\PDMI6TP02\obj\Debug\netstandard2.0\PDMI6TP02.AssemblyInfo.cs
+C:\Users\Vitor\Desktop\PDMI6TP02\PDMI6TP02\obj\Debug\netstandard2.0\PDMI6TP02.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Desktop\PDMI6TP02\PDMI6TP02\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Vitor\Desktop\PDMI6TP02\PDMI6TP02\obj\Debug\netstandard2.0\PDMI6TP02.dll
+C:\Users\Vitor\Desktop\PDMI6TP02\PDMI6TP02\obj\Debug\netstandard2.0\refint\PDMI6TP02.dll
+C:\Users\Vitor\Desktop\PDMI6TP02\PDMI6TP02\obj\Debug\netstandard2.0\PDMI6TP02.pdb
+C:\Users\Vitor\Desktop\PDMI6TP02\PDMI6TP02\obj\Debug\netstandard2.0\ref\PDMI6TP02.dll
